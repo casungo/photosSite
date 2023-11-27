@@ -1,0 +1,44 @@
+{
+  "nav": {
+    "it": "photoSite"
+  },
+  "home": {
+    "it": "home"
+  },
+  "card1/img": {
+    "it": "<img src=\"/assets/images/1.jpg\" class=\"card-img-top\" draggable=\"false\" />"
+  },
+  "card1/title": {
+    "it": "Scatti 1"
+  },
+  "card1/desc": {
+    "it": "Scatti 1 descrizione"
+    },
+  "card1/btn": {
+    "it": "<a href=\"photoRepo/1\" class=\"btn btn-outline-light\"><i class=\"bi bi-camera\"></i> Vai agli scatti!</a>"
+  },
+  "card2/img": {
+    "it": "2"
+  },
+  "card2/title": {
+    "it": "2"
+  },
+  "card2/desc": {
+    "it": "2"
+  },
+  "card2/btn": {
+    "it": "2"
+  },
+  "card3/img": {
+    "it": "3"
+  },
+  "card3/title": {
+    "it": "3"
+  },
+  "card3/desc": {
+    "it": "3"
+  },
+  "card3/btn": {
+    "it": "3"
+  }
+}
